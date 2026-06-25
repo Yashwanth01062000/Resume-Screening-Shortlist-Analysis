@@ -210,19 +210,6 @@ This dashboard helps organizations:
 
 ---
 
-# 📁 Repository Structure
-
-```text
-Resume-Screening-Shortlist-Analytics-Dashboard/
-│
-├── dashboard(15).jpg
-├── Resume Screening & Shortlist Analytics Dashboard.pbix
-├── Dataset.xlsx
-└── README.md
-```
-
----
-
 # 📚 Skills Demonstrated
 
 - Data Cleaning
